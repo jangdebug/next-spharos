@@ -1,4 +1,5 @@
 import AuthServiceHeader from '@/components/layouts/AuthServiceHeader'
+import AuthServiceHeaderCsr from '@/components/layouts/AuthServiceHeaderCsr'
 import React from 'react'
 
 function layout({
@@ -6,7 +7,7 @@ function layout({
 }: Readonly<{children: React.ReactNode}>) {
   return (
     <>
-      <AuthServiceHeader />
+      <AuthServiceHeaderCsr  />
       {children}
     </>
   )
