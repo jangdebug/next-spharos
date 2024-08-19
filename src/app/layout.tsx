@@ -17,9 +17,8 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <body className={inter.className}>
-        <header>여기 헤더</header>
         {children}
-        <footer>여기 푸터</footer>
+        <footer>footer</footer>
       </body>
     </html>
   );
