@@ -1,3 +1,8 @@
+
+Next.js 와 Auth 진행 레포지토리입니다.
+
+--------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
